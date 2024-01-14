@@ -3,16 +3,18 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/davidwenk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
   </a>
   </a>
   <a href="https://twitter.com/theDavidWenk">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" alt="X Badge"/>
   </a>
 </div>  
+<br />
+<br />
 
-
-* 👨‍💻 I have a background in UX/UI and Product Design. I’m currently learning Full Stack Web Development. I'm a newbie when it comes to software engineering but I'm excited to learn. 
+* 👨‍💻 I’m currently learning Full Stack Web Development. I'm a newbie in software development but I'm excited to learn.
+* 🎨 I have a background in UX/UI and Product Design. 
 * 👀 I’m interested in participating in Open Source Projects and meeting new 
 * ⚡ Fun fact: I studied Architecture and worked as a construction manager before moving into tech.
 
