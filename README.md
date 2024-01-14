@@ -15,8 +15,8 @@
 
 * 👨‍💻 I’m currently learning Full Stack Web Development. I'm a newbie in software development but I'm excited to learn.
 * 🎨 I have a background in UX/UI and Product Design. 
-* 👀 I’m interested in participating in Open Source Projects and meeting new 
-* ⚡ Fun fact: I studied Architecture and worked as a construction manager before moving into tech.
+* 👀 I’m interested in participating in Open Source Projects and meeting new people
+* ⚡ Fun fact: I studied Architecture and worked as a construction manager before working in tech.
 
 
 <!---
