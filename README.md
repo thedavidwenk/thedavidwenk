@@ -2,11 +2,11 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/davidwenk/" target="_blank">
+  <a href="https://www.linkedin.com/in/davidwenk/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </a>
-  <a href="https://twitter.com/theDavidWenk" target="_blank">
+  <a href="https://twitter.com/theDavidWenk">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 </div>  
