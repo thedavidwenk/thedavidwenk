@@ -13,9 +13,9 @@
 <br />
 <br />
 
-* 👨‍💻 I’m currently learning Full Stack Web Development. 
-* 🎨 I have a background in UX/UI and Product Design. 
-* 👀 I’m interested in participating in Open Source Projects and meeting new people
+* 👨‍💻 I’m learning Full Stack Web Development. 
+* 🎨 I have 8 years of experience in UX/UI Product Design.
+* 👀 I’m interested in building great software and participating in Open Source Projects.
 * ⚡ Fun fact: I studied Architecture and worked as a construction manager before working in tech.
 
 
