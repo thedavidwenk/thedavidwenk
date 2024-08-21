@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a customer-centric Product Manager and Design Technologist with 8 years of experience in Product Design. I recently graduated from Le Wagon's intensive Web Development bootcamp where I:
+I'm a customer-centric Product Developer and Design Technologist with 8 years of experience in Product Design. I recently graduated from Le Wagon's intensive Web Development bootcamp where I:
 
 - Co-developed the web application platform [DevBuddy](https://github.com/thedavidwenk/devbuddy) with Rails to connect developers, focusing on streamlined user interactions and efficient matchmaking algorithms.
 - Created a costume rental platform [Costumize](https://github.com/thedavidwenk/costumize), which integrates user-friendly search and booking features.
